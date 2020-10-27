@@ -35,8 +35,8 @@ public class Driver {
 		Class class2 = new Class("JavaScript", 4, instructor2);
 		Instructor instructor3 = new Instructor("Deniss", "Fane", "777-888-999", 1);
 		Class class3 = new Class("Pythos", 8, instructor3);
-		Instructor instructor4 = new Instructor("Deniss", "Fane", "123-456-789", 0);
-		Class class4 = new Class("Pythos", 3, instructor4);
+		Instructor instructor4 = new Instructor("Linda", "Orange", "123-456-789", 0);
+		Class class4 = new Class("PHP", 3, instructor4);
 
 		courses.add(class1);
 		courses.add(class2);
